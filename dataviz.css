@@ -4,7 +4,7 @@ h1{
 
 .after {
     position: absolute;
-    top: 86px;
+    top: 124px;
     left: 9px;
     width: 640px;
 }
@@ -15,7 +15,6 @@ h1{
 }
 
 p{
-	font-style: italic;
 	font-family: "Palatino Linotype";
 }
 
