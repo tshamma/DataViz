@@ -1,0 +1,32 @@
+h1{
+	font-family:"Palatino Linotype";
+}
+
+.after {
+    position: absolute;
+    top: 86px;
+    left: 9px;
+    width: 640px;
+}
+
+.after{
+    opacity: 0;
+    filter:alpha(opacity=0);
+}
+
+p{
+	font-style: italic;
+	font-family: "Palatino Linotype";
+}
+
+body{
+	background-color:rgba(190, 186, 186, 0.21);
+}
+
+.cruise{
+	width: 640px;
+}
+
+.data{
+	width: 640px;
+}
